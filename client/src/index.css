@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #110d0a;
+  background-color: #ffffff;
+  background-image: url("/client/public/img/Background-hero.png");
+  background-size: cover; /* Ajuste la taille de l'image pour couvrir tout le fond */
+  background-position: center; /* Centre l'image sur le fond */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Le reste de votre CSS ici */
