@@ -1,4 +1,4 @@
-# 🌟 Crypto Tracker & Trading Platform
+# 🌟 Crypto 
 
 **Description**  
 Ce projet est un site web qui permet aux utilisateurs de :  
